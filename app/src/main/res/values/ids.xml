@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="twitter_username_text" type="id" />
+    <item name="twitter_password_text" type="id" />
+    <item name="twitter_login_button" type="id" />
+    <item name="username_text" type="id" />
+    <item name="password_text" type="id" />
+    <item name="login_button" type="id" />
+</resources>
